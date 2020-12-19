@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Fly-man's Github Stats](https://github-readme-stats.vercel.app/api?username=fly-man-&show_icons=true)](https://github.com/fly-man-)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fly-man-)](https://github.com/anuraghazra/github-readme-stats)
