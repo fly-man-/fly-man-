@@ -16,4 +16,15 @@ Here are some ideas to get you started:
 -->
 [![Fly-man's Github Stats](https://github-readme-stats.vercel.app/api?username=fly-man-&show_icons=true)](https://github.com/fly-man-)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fly-man-)](https://github.com/anuraghazra/github-readme-stats)
+<h2>⚙️  GitHub Analytics</h2>
+<div align="center">
+  <a href="https://github.com/fly-man-">
+    <img src="https://github-profile-trophy.vercel.app/?username=fly-man-&title=MultiLanguage,Commits,Stars,Followers,Organizations,Issues,PullRequest" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/fly-man-">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fly-man-&langs_count=8&theme=dracula&layout=compact" />
+  </a>
+</div>
+
