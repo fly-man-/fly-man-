@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Fly-man's Github Stats](https://github-readme-stats.vercel.app/api?username=fly-man-&show_icons=true)](https://github.com/fly-man-)
+[![Fly-man's Github Stats](https://github-stats-extended.vercel.app/api?username=fly-man-)](https://github.com/stats-organization/github-stats-extended)
 
 <h2>⚙️  GitHub Analytics</h2>
 <div align="center">
@@ -27,4 +27,3 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fly-man-&langs_count=8&theme=dracula&layout=compact" />
   </a>
 </div>
-
